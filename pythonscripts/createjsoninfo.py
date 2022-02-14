@@ -1,3 +1,10 @@
+'''
+Module Description: ingest data from SQL then created dataframe through tuples.
+File Name:createjsoninfo.py
+Created by:Dhivyakrishnaraj
+created Date:02/13/2022
+'''
+
 #Create a function list of tuples, tuples should be paired in a list.Take the list in the for loop and print it in the form of (Parent1/Child1 to 5 pair.)
 
 
